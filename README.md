@@ -10,18 +10,11 @@ Each week has its own folder (`Week1`, `Week2`, etc.) with source code and requi
 Programming-Styles/
 │
 ├── Week 1/
-│ ├── Main.java, 
+│ ├── Main.java, Main.class, TermFreq.class, WordFreq.class 
 │ ├── pride-and-prejudice.txt
 │ └── stopwords.txt
 │
-├── Week2/
-│ ├── Main.java, Main.class, TermFreq.class, WordFreq.class
-│ └── ...
-│
 └── README.md
-
-yaml
-Copy code
 
 ---
 
