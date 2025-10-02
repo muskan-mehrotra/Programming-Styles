@@ -28,7 +28,8 @@ cd root_path/Week1
 Step 2: Compile the Java program
 bash
 Copy code
-javac Main.java
+Run Main.java
+Terminal command: javac Main.java
 
 Step 3: Feed the Pride and Prejudice text file as input
 java Main <file path/name>
