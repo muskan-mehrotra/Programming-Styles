@@ -1,5 +1,4 @@
-# Programming-Styles
-# Weekly Submissions
+# Programming-Styles - Weekly Submissions
 This repository contains my weekly programming assignments.  
 Each week has its own folder (`week1`, `week2`, etc.) with source code and required files.
 
@@ -15,4 +14,4 @@ cd root_path/Week1
 javac Main.java
 
 Step 3: Run the program with the input file
-java Main pride-and-prejudice.txt
+java Main <path of the file "pride-and-prejudice.txt">
