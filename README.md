@@ -15,3 +15,4 @@ javac Main.java
 
 Run the program with the input file
 java Main <path of the file "pride-and-prejudice.txt">
+Sample: /Users/muskan20mehrotra/Documents/MSWE/Programming_Styles/pride-and-prejudice.txt
