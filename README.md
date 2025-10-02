@@ -1,18 +1,42 @@
-# Programming-Styles - Weekly Submissions
+# Programming-Styles – Weekly Submissions  
+
 This repository contains my weekly programming assignments.  
-Each week has its own folder (`week1`, `week2`, etc.) with source code and required files.
+Each week has its own folder (`Week1`, `Week2`, etc.) with source code and required files.  
 
 ---
 
-## Week 1
+## 📂 Folder Structure  
 
-### Step 1: Navigate to the Week 1 directory
+Programming-Styles/
+│
+├── Week 1/
+│ ├── Main.java, 
+│ ├── pride-and-prejudice.txt
+│ └── stopwords.txt
+│
+├── Week2/
+│ ├── Main.java, Main.class, TermFreq.class, WordFreq.class
+│ └── ...
+│
+└── README.md
+
+yaml
+Copy code
+
+---
+
+## Week 1  
+
+### Step 1: Navigate to the Week1 directory  
+
 ```bash
 cd root_path/Week1
 
-Compile the Java program:
+Step 2: Compile the Java program
+bash
+Copy code
 javac Main.java
 
-Run the program with the input file
-java Main <path of the file "pride-and-prejudice.txt">
+Step 3: Feed the Pride and Prejudice text file as input
+java Main <file path/name>
 Sample: /Users/muskan20mehrotra/Documents/MSWE/Programming_Styles/pride-and-prejudice.txt
